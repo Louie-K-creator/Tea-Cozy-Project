@@ -35,7 +35,7 @@ h4 {
   width: 1200px;
 }
 
-#store div{
+div.item {
   justify-content: center;
   align-items: center;
   
