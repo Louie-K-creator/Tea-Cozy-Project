@@ -19,12 +19,12 @@
 .logo {
   height: 50px;
   display: inline-flex;
-  justify-content: flex-start;
+  align-content: flex-start;
 }
 
 .taskbar {
   display: inline-flex;
-  justify-content: flex-end;
+  align-content: flex-end;
   
   
   
