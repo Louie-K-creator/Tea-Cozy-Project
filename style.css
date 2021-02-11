@@ -9,9 +9,10 @@
   border: 2px solid white;
 }  
 
-header {
+.header {
   position: fixed;
   display: inline-flex;
+  width: 100%;
  
 }
 
