@@ -63,6 +63,7 @@ h4 {
 #locations {
   background-image: url(img-locations-background.webp);
   height: 500px;
+  background-repeat: no-repeat;
 }
 
 .location {
