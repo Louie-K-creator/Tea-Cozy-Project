@@ -20,10 +20,12 @@ header {
 header img {
   height: 50px;
   padding-left: 10px;
-  
-
 }
-  
+
+nav {
+  text-align: right;
+  flex-grow: 1;
+}
 
 .flex-container {
   display: flex;
