@@ -9,6 +9,7 @@ body {
 
 header {
   position: fixed;
+  width: 100%;
 }
 
 .flex-container {
