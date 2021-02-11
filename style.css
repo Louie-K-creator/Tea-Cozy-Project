@@ -50,6 +50,7 @@ h4 {
   display: block;
   margin: 5px;
   padding: 0;
+  flex-direction: row;
 }
 
 .item div {
