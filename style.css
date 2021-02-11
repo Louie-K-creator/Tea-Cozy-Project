@@ -62,6 +62,11 @@ h4 {
   padding-top: 70px; 
 }
 
+#mission .content {
+  margin: auto;
+  width: 100%;    
+  background-color: black;
+}
 
 
 #locations {
