@@ -31,7 +31,8 @@ h4 {
 }
 
 .main {
-  position-top: 69px;
+  position: relative;
+  top: 69px;
 }
 
 #mission {
