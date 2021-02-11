@@ -24,12 +24,12 @@ h4 {
   padding: 10px;
 }
 
-.main {
+#main {
   background-image: url(img-mission-background.webp);
   height: 700px;
 }
 
-.locations {
+#locations {
   background-image: url(img-locations-background.webp);
   height: 500px;
 }
