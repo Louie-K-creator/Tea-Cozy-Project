@@ -10,6 +10,7 @@ body {
 header {
   position: fixed;
   width: 100%;
+  background-color: black;
 }
 
 .flex-container {
@@ -27,6 +28,10 @@ h3,
 h4 {
   margin: 0;
   padding: 10px;
+}
+
+.main {
+  position-top: 69px;
 }
 
 #mission {
