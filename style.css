@@ -7,6 +7,10 @@ body {
   text-align: center;
 }
 
+header {
+  position: fixed;
+}
+
 .flex-container {
   display: flex;
   justify-content: center;
