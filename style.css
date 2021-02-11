@@ -17,6 +17,14 @@ header {
   height: 69px;
 }
 
+header img {
+  height: 50px;
+  padding-left: 10px;
+  
+
+}
+  
+
 .flex-container {
   display: flex;
   justify-content: center;
