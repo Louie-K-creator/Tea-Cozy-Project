@@ -75,6 +75,22 @@ h4 {
   padding-top: 70px;
 }
 
+.item {
+  padding: 5px;
+}
+
+.item img {
+  height: 200px;
+  margin: 10px;
+  display: block;
+}
+
+.item span {
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+}
 
 #locations {
   background-image: url(img-locations-background.webp);
@@ -86,23 +102,3 @@ h4 {
   width: 300px;
   background-color: black;
 }
-
-.item {
-  padding: 5px;
-}
-
-.item img {
-  height: 200px;
-  margin: 10px;
-  display: flex;
-  margin: 5px;
-  padding: 0;
-  flex-direction: row;
-}
-
-.item div {
-  width: 300px;
-  margin: 5px;
-  paddding: 0;
-}
-
