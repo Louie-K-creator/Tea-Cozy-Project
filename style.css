@@ -1,8 +1,3 @@
-* {
-  border: 2px solid white;
-  box-sizing: border-box;
-}  
-
 body {
   margin: 0;
   font-family: "Helvetica";
@@ -12,26 +7,4 @@ body {
   text-align: center;
 }
 
-.header {
-  position: fixed;
-  display: inline-flex;
-  width: 1300px;
-  border-bottom: 1px solid seashell;
- 
-}
-
-.logo {
-  height: 50px;
-  
-  align-content: flex-start;
-}
-
-.taskbar {
-
-  align-content: flex-end;
-}
-
-.main {
-  margin-top: 69px;
-}
 
