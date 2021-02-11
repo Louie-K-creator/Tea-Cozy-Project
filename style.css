@@ -12,6 +12,9 @@ header {
   width: 100%;
   background-color: black;
   border-bottom: 1px solid seashell;
+  z-index: 1;
+  align-items: center;
+  height: 69px;
 }
 
 .flex-container {
@@ -31,10 +34,6 @@ h4 {
   padding: 10px;
 }
 
-.main {
-  position: relative;
-  top: 69px;
-}
 
 #mission {
   background-image: url(img-mission-background.webp);
