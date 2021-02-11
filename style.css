@@ -14,6 +14,7 @@
   position: fixed;
   display: inline-flex;
   width: 1300px;
+  border-bottom: 1px solid seashell;
  
 }
 
@@ -26,7 +27,9 @@
 .taskbar {
 
   align-content: flex-end;
-  
-  
-  
 }
+
+.main {
+  margin-top: 69px;
+}
+
