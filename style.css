@@ -66,6 +66,11 @@ h4 {
   height: 500px;
 }
 
+.location {
+  width: 300px;
+  background-color: black;
+}
+
 .item {
   padding: 5px;
 }
@@ -84,3 +89,4 @@ h4 {
   margin: 5px;
   paddding: 0;
 }
+
