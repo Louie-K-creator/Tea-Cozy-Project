@@ -24,6 +24,16 @@ h4 {
   padding: 10px;
 }
 
+.main {
+  background-img: url(img-mission-background.webp);
+  height: 700px;
+}
+
+.locations {
+  background-img: url(img-locations-background.webp);
+  height: 500px;
+}
+
 .item {
   padding: 5px;
 }
