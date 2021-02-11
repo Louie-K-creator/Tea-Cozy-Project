@@ -8,6 +8,18 @@
   background-color: black;
 }  
 
-.logo {
+header {
+  position: fixed;
+}
+
+image.logo {
   height: 50px;
+}
+
+.taskbar {
+  display: inline-flex;
+  justify-content: flex-end;
+  
+  
+  
 }
