@@ -73,7 +73,8 @@ nav span {
 
 #mission .content {
   margin: auto;
-  background-color: black;
+  background-color: #a9a9a9;
+  opacity: 0.8;
   width: 100%;
 }
 
@@ -124,7 +125,7 @@ nav span {
   opacity: 1.0;
   padding: 10px;
   margin: 5px 20px;
-  background-color: black;
+  background-color: #a9a9a9;
   flex-basis: 280px;
   display: flex;
   flex-direction: column;
