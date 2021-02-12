@@ -44,14 +44,14 @@ header img {
 }
 
 nav {
-  text-align: center;
+  text-align: left;
   flex-grow: 1;
   font-size: 1000px;
 }
 
 nav span {
   display: inline-block;
-  padding: 10px;
+  padding: 20px 10px;
 }
 
 /* Main Section */
