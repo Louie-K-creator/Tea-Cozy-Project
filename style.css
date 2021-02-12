@@ -145,7 +145,7 @@ nav span {
 #contact {
   height: 200px;
   text-align: center;
-  margin-left: 20px;
+  margin: 0 auto;
 }
 
 
