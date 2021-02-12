@@ -78,9 +78,8 @@ nav span {
   width: 100%;
 }
 
-.content h4 {
-  opacity: 1.0;
-  color: #b8860b;
+#mission .content h4 {
+  opacity: 1.0
 }
 
 /* Store Section */
