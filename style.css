@@ -33,10 +33,9 @@ header {
   position: fixed;
   z-index: 1;
   height: 100%;
-  width: 75px;
-  background-color: black;
-  border-bottom: 1px solid seashell;
-  align-items: center;
+  background-color: slate;
+  border-right: 1px solid seashell;
+  align-items: left;
 }
 
 header img {
