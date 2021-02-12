@@ -44,7 +44,7 @@ header img {
 }
 
 nav {
-  text-align: left;
+  text-align: center;
   flex-grow: 1;
   font-size: 100px;
 }
