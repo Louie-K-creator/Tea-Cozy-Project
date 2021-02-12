@@ -43,6 +43,11 @@ header img {
   
 }
 
+img {
+  border-radius: 10px;
+}
+
+
 nav {
   text-align: center;
   flex-grow: 1;
@@ -95,6 +100,7 @@ nav span {
   height: 200px;
   margin: 10px;
   display: block;
+  border-radius: 10px
 }
 
 .item span {
