@@ -79,8 +79,8 @@ nav span {
 
 #mission .content {
   margin: auto;
-  background-color: #a9a9a9;
-  opacity: 0.8;
+      background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(204, 204, 204, 0.5);
   width: 100%;
 }
 
