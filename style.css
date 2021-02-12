@@ -147,6 +147,16 @@ nav span {
   text-align: center;
 }
 
+.contact {
+  opacity: 1.0;
+  padding: 10px;
+  margin: 5px 20px;
+  flex-basis: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* Footer Section */
 
 footer {
